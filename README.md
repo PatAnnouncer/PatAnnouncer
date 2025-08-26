@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdxaGFibjUweHhzMmRrejBzcnI5Zm9mN3Q3cmgzdGFjODBiOXczNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJ9ehuvqmJbrgZLAwB/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-telegram-URL">
+  <a href="https://t.me/clisamurai">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
     <a href="https://www.instagram.com/ipneumo">
