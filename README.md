@@ -77,7 +77,7 @@ Currently keeping servers alive and trying not to break anything important.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iPneumo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PatAnnouncer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
